@@ -28,5 +28,5 @@ Pour des informations spécifiques sur le plugin, consultez le README dans le do
 
 ## Licence 
 Cet outil est un logiciel libre : vous pouvez le redistribuer et/ou le modifier selon les termes de la licence publique générale GNU, version 3 (GPLv3)
-La licence publique générale GNU complète est disponible dans [LICENSE.txt](LICENSE.txt) ou [ici](http://www.gnu.org/licenses/gpl.html).
+La licence publique générale GNU complète est disponible [ici](http://www.gnu.org/licenses/gpl.html).
 
